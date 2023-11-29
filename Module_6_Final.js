@@ -15,7 +15,7 @@ let flag75;
 let canvasDiv;
 
 function preload() {
-  table = loadTable("data/Sheet7.csv", "csv", "header")
+  table = loadTable("Sheet7.csv", "csv", "header")
 }
 
 function setup() {
