@@ -250,7 +250,7 @@ fill("white");
     push();
     fill("white");
     textSize(10);
-    text('Page 158: Piranesi is mentioned twice. \n"Dear Piranesi, \nReading your useful and informative meesages, \nI have come to realise that if only I were to cast off \nmy wickedness then we could be friends."', 450, 350)
+    text('Page 158: Piranesi is mentioned twice. \n"Dear Piranesi, \nReading your useful and informative messages, \nI have come to realise that if only I were to cast off \nmy wickedness then we could be friends."', 450, 350)
  pop();  
  }
    
